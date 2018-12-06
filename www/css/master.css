@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis|Sedgwick+Ave');
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Sedgwick Ave', cursive;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+}
+
+p {
+  font-family: 'Dosis', sans-serif;
+}
